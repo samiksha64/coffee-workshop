@@ -4,7 +4,7 @@ import "./Home.css"
 import "./script"
 import styled from "styled-components";
 
-
+ 
 const Wrapper=styled.section`
   background-image: linear-gradient(to right, rgba(0,0,0,0.6), rgba(0,0,0,0.4)),url('/images/Background/bg_1.jpg');
   height: 100%;

@@ -6,7 +6,7 @@ $(document).ready(function () {
         entries.forEach(entry => {
             const el = entry.target;
             if (entry.isIntersecting && !el.classList.contains('is-visible')) {
-                counterUp(el, {
+                counterUp(el, { 
                     duration: 2000,
                     delay: 16,
                 });

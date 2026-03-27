@@ -21,7 +21,7 @@ const Blog=(props)=>{
                 <li className="breadcrumb-item active" aria-current="menu" style={{ color: "white", textDecoration: "none", cursor:"pointer" }}>Blog</li>
                 </ol>
             </nav>
-           </div>
+           </div> 
             </div>
 
         </section>

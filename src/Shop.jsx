@@ -219,7 +219,7 @@ const Shop=(props)=>{
                         <div>
                             {
                                 props.footerqli.map(function(fli){
-                                    return(
+                                    return( 
                                         <div className="d-flex justify-content-start align-items-center gap-2">
                                             <div>
                                                 <p className="text-light"><i class={fli.footericon}></i></p>

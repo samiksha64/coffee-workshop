@@ -3,7 +3,7 @@
 
 
 .carousel1
-{
+{ 
     height: 120vh;
     background-image:linear-gradient(to right, rgba(0,0,0,0.6), rgba(0,0,0,0.4)),url('/images/Background/bg_1.jpg');
     background-position: center;

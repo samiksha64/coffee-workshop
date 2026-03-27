@@ -5,7 +5,7 @@
 }
 
 .navbar .nav-link {
-  color: white !important;
+  color: white !important; 
   transition: color 0.3s ease, transform 0.3s ease;
   font-size: large;
 }

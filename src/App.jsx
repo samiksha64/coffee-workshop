@@ -289,7 +289,7 @@ const menudrink=[
         title: "Lemon mint Mojito",
         para: "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.",
         price:"$2.19",
-        button:"Add to Cart",
+        button:"Add to Cart", 
         
     },
 

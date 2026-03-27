@@ -8,7 +8,7 @@ const Wrapper=styled.section`
   height: 100%;
   background-attachment: fixed;
 `
-const About=(props)=>{
+const About=(props)=>{ 
 
     return(
         <>

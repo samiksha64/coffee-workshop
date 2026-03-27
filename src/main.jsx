@@ -7,7 +7,7 @@ const element=document.querySelector(".root");
 
 const root=ReactDOM.createRoot(element);
 
-root.render(
+root.render( 
    <BrowserRouter>
     <App />
   </BrowserRouter>

@@ -9,7 +9,7 @@ const Navigation = ({ menuItems, brand }) => {
         <div className="container">
           <NavLink className="navbar-brand text-white fw-bold" to="/">
             {brand}
-          </NavLink>
+          </NavLink> 
           <button
             className="navbar-toggler border-0"
             type="button"
